@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+A small blog about troubles that I encounter in my journey as a developer and guides that could help others facing similar problems. 
